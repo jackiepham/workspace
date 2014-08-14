@@ -1,2 +1,2 @@
 <?php
-//TODO
+function bar() {}
